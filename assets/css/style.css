@@ -192,6 +192,7 @@ img {
     border-color: var(--color-base);
     color: var(--color-body);
     border: 1px solid black;
+    color:white;
 }
 
 #contact .form-control:focus {
