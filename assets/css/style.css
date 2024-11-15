@@ -5,11 +5,11 @@
     padding: 0;
 }
 :root {
-    --color-body:#070e3d;
-    --color-heading:blue;
-    --color-base:whitesmoke;
+    --color-body:black;
+    --color-heading:red;
+    --color-base:#3d3bf3;
     --color-base2:white;
-    --color-brand:#fab12f;
+    --color-brand:orange;
     --color-brand2: #fa4032;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
