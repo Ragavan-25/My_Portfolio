@@ -201,7 +201,7 @@ img {
 }
 
 #contact .form-control::placeholder {
-    color: var(--color-body);
+    color: white;
 }
 
 #contact input.form-control {
